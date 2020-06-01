@@ -46,3 +46,5 @@ For each wad
 5) I wrote a script to take my INFO file of manually transcribed information and converted it into code that Doom Builder can understand
 6) I made sure it loaded with no errors, although there are still a lot of warnings.
 I haven't tested this a whole lot, but it worked in GZDoom.
+
+All credits files have been left untouched. If you want to know who created something, it's all there in plain text inside the wads that are included inside the pk3 file. Or you could just browse on over to https://realm667.com
