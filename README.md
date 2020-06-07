@@ -5,9 +5,8 @@ Have you ever wanted to use all the monsters from the Realm 667 bestiary, but we
 
 # Installation
 1) Download files
-2) Run the self extracting archive exe file
-3) Copy the config file into your "Includes" folder (probably C:\Program Files (x86)\Doom Builder 2\Configurations\Includes)
-4) Edit your Doom2.cfg (in the "Configurations" folder) with Notepad or other plain text editor
+2) Copy the config file into your "Includes" folder (probably C:\Program Files (x86)\Doom Builder 2\Configurations\Includes)
+3) Edit your Doom2.cfg (in the "Configurations" folder) with Notepad or other plain text editor
 
 Find this section
 ```
@@ -29,7 +28,7 @@ thingtypes
  include("Includes\\Doom2_decorate_monsters.cfg");
 }
 ```
-5) In Doom Builder, under Tools -> Game Configurations -> Doom 2 -> Resources. Select Add Resource from PK3 file and specify the pk3 file location.
+4) In Doom Builder, under Tools -> Game Configurations -> Doom 2 -> Resources. Select Add Resource from PK3 file and specify the pk3 file location.
 
 # Distributing your wad
 When you distribute your wad file, you'll also need to make sure to distribue the pk3 file along with it, otherwise they will not be able to load the monsters.
