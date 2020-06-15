@@ -51,5 +51,5 @@ All credits files have been left untouched. If you want to know who created some
 My test setup is:
 
 GZDoom 3.2.1
-
+Ultimate Doom Builder 3.0.0.3489 (4a693a5)
 Doom Builder 2.1.2.1553
